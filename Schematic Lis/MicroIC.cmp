@@ -1,0 +1,22 @@
+Component Name : ICM-42688-P
+
+Part Count : 2
+
+Part : DD?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : DD?
+     Pins - (Normal) : 10
+          SDO/AD0        1              Passive
+          INT1           4              Passive
+          VDDIO          5              Passive
+          GND            6              Passive
+          GND            7              Passive
+          VDD            8              Passive
+          INT2/CLKIN     9              Passive
+          CS             12             Passive
+          SCL/SCLK       13             Passive
+          SDA/SDI        14             Passive
+          Hidden Pins : 
+
